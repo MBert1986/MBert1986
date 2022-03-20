@@ -1,4 +1,4 @@
 - 👋 Hola! Mi nombre es Mariano Bertoldo.
-- 👀 Estoy interesado en programación, orientado a back end.
-- 🌱 Actualmente estoy aprendiendo Python.
+- 👀 Estoy interesado en programación, orientado a data science.
+- 🌱 Actualmente estoy aprendiendo Python y ML.
 - 📫 Para contactarme: marianobert86@gmail.com
